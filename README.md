@@ -1,5 +1,8 @@
 
-#Sri Lanka Travel Recommendation Engine
+
+---
+
+# Sri Lanka Travel Recommendation Engine
 
 This project was developed for the Rootcode Datathon, featuring a content-based filtering machine learning model designed to recommend the best travel locations for tourists visiting Sri Lanka. The model takes into account user preferences and bucket list destinations to offer personalized recommendations. 
 
@@ -19,3 +22,4 @@ This project was developed for the Rootcode Datathon, featuring a content-based 
 
 This project aims to enhance the travel experience for tourists by offering well-rated and highly relevant travel destination suggestions across Sri Lanka.
 
+---
